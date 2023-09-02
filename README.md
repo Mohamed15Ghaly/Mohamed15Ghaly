@@ -24,19 +24,7 @@
   <img align="right" style="position: relative; top: 500px; height: 250px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"><br><br>
 </a>
 <!-- Bio Image Section Ends -->
-<!-- Bio Section Ends -->
-
-<hr>
-<br><br><br><br>
-<hr>
-<br>
-<hr>
-<!-- About Me Section Starts -->
-<h2><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture></h2>
-<h2 style="color: #44AEFB">About Me:</h2>
-
-<br>
-<hr>
+<!-- Bio Section Ends --
 <!-- Connect With Me Section Starts -->
 <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 <h2> Let's Connect..!</h2>
