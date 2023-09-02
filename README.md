@@ -1,5 +1,8 @@
 <!-- Header Section Starts -->
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="handimg">, I'm Mohamed Salem </h1>
+<div align='center'>
+  <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></h2>
+</div>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="handimg">, I'm Mohamed Ghaly </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="lineimg">
 <!-- Header Section Ends -->
 
@@ -11,7 +14,7 @@
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   I am a passionate front-end software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.<br><br>
   <div align="center">
-    <a href="mailto:mohamedwaelsalem149@gmail.com" target="_blank">
+    <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
       <img style="margin: 0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
   </div>
@@ -29,7 +32,7 @@
 <h2>🔍</h2>
 <h2 style="color: #44AEFB">Github Profile Views:</h2>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mosalem149&label=Profile%20views&color=0e75b6&style=flat" alt="mosalem149" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed15Ghaly&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed15Ghaly" />
 </p>
 <!-- Profile Views Section Ends -->
 
@@ -43,7 +46,7 @@
 <p align="center">
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=mosalem149&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Mohamed15Ghaly&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
   </div>
 </p>
@@ -60,46 +63,22 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br><br><br><br><br><br><br><br><br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Information Science ](https://csifac.mans.edu.eg/index.php/en/) at [Mansoura University](https://www.mans.edu.eg/en).
-- :trophy: 1x `IoT` Certificate, 1x `ITI-ST` Certificate.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`, `Front end Developer`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
-- :boom: You can visit [MY WEBSITE](#).
-- 🔭 I’m currently working on **ITI-ST-REACTJS-Final-Project**
-- 🌱 I’m currently learning **ReactJs**
-- 👯 I’m looking to collaborate on **ITI-ST-REACTJS-Final-Project**
-- 🤝 I’m looking for help with **ITI-ST-REACTJS-Final-Project**
-- 💬 Ask me about **HTML5, CSS3, JS, REACTJS**
-- 📫 How to reach me **mohamedwaelsalem149@gmail.com**
-<!-- About Me Section Ends -->
-
 <hr>
-
 <!-- Connect With Me Section Starts -->
 <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 <h2> Let's Connect..!</h2>
 <br>
 <p align="left">
-  <a href="https://twitter.com/@mohamed86203689" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohamed86203689" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mohamed salem" target="blank">
+  <a href="https://www.linkedin.com/in/mohamed-ghaly-8b143b254/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed salem" height="30" width="40" />
   </a>
   <a href="https://fb.com/mohamed salem" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed salem" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mohamed salem" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed salem" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/mohamedsalem9" target="blank">
+  <a href="https://codeforces.com/profile/Mohamed15Ghaly" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsalem9" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/mohamedsalem9" target="blank">
+  <a href="https://leetcode.com/Mohamed15Ghaly/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedsalem9" height="30" width="40" />
   </a>
 </p>
@@ -325,9 +304,6 @@
 
 <!-- Better Ending Starts-->
 <h2>👋</h2>
-<div align='center'>
-  <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></h2>
-</div>
 <!-- Better Ending Ends-->
 
 <hr>
