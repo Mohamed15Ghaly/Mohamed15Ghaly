@@ -12,7 +12,7 @@
 <h2>📑</h2>
 <h2 style="color: #44AEFB">Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-  I am a passionate front-end software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.<br><br>
+  Undergraduate software engineer, passionate about Mobile Programming and I have over a year of experience at problem solving in addition to a high ability for self learning.<br><br>
   <div align="center">
     <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
