@@ -15,7 +15,7 @@
   I am a passionate front-end software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.<br><br>
   <div align="center">
     <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
-      <img style="margin: 0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
     </a>
   </div>
 </p>
@@ -36,9 +36,6 @@
 <h2 style="color: #44AEFB">About Me:</h2>
 
 <br>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
-
 <hr>
 <!-- Connect With Me Section Starts -->
 <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
