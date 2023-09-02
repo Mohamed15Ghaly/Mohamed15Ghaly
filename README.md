@@ -20,9 +20,6 @@
   </div>
 </p>
 <!-- Bio Image Section Starts -->
-<a target="_blank" align="right">
-  <img align="right" style="position: relative; top: 500px; height: 250px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"><br><br>
-</a>
 <!-- Bio Image Section Ends -->
 <!-- Bio Section Ends --
 <!-- Connect With Me Section Starts -->
