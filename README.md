@@ -3,9 +3,7 @@
   <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b></h2>
 </div>
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="handimg">, I'm Mohamed Ghaly </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering!;Flutter Developer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="lineimg">
+
 <!-- Header Section Ends -->
 <hr>
 <!-- Bio Section Starts -->
