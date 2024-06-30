@@ -11,7 +11,7 @@
 <h2 style="color: #44AEFB">Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
   Undergraduate software engineer, passionate about Mobile Programming and I have over a year of experience at problem solving in addition to a high ability for self learning.<br><br>
-  <div align="center">
+  <div align="end">
     <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
       <p >
   <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering!;Flutter Developer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
