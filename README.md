@@ -14,9 +14,9 @@
   <div align="right">
     <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
       <p >
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering!;Flutter Developer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
     </a>
   </div>
 </p>
-
+<!--   <img src="https://readme-typing-svg.demolab.com/?lines=Software engineering!;Flutter Developer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ -->
