@@ -10,7 +10,7 @@
 <h2>📑</h2>
 <h2 style="color: #44AEFB">Bio:</h2>
 <p align="left" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-  Undergraduate software engineer, passionate about Mobile Programming and I have over a year of experience at problem solving in addition to a high ability for self learning.<br><br>
+  I am a software engineer passionate about mobile programming, seeking a challenging role that allows me to utilize my technical skills, creativity, and passion for learning to contribute to innovative and cutting-edge projects. I have over a year of experience in problem-solving, in addition to a high ability for self-learning.<br><br>
   <div align="right">
     <a href="mailto:mohamedghaly07@gmail.com" target="_blank">
       <p >
