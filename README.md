@@ -66,13 +66,6 @@ Flutter developer and software engineer with **3+ years** of experience building
   <img src="./assets/divider.svg" alt="" />
 </div>
 
-## GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Mohamed15Ghaly&show_icons=true&hide_border=true&bg_color=0D1117&title_color=44AEFB&icon_color=44AEFB&text_color=C9D1D9&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamed15Ghaly&layout=compact&hide_border=true&bg_color=0D1117&title_color=44AEFB&text_color=C9D1D9&cache_seconds=86400" alt="Top languages" />
-</div>
-
 <br/>
 
 <div align="center">
