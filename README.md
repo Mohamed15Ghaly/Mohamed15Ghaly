@@ -62,18 +62,5 @@ Flutter developer and software engineer with **3+ years** of experience building
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" />
-</div>
-
-<br/>
-
-
-<br/>
-
-<div align="center">
-  <img src="./assets/footer.svg" alt="" />
-
-**Let’s build something useful.**
 
 </div>
