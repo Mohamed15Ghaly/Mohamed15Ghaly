@@ -68,9 +68,6 @@ Flutter developer and software engineer with **3+ years** of experience building
 
 <br/>
 
-<div align="center">
-  <img src="./assets/streak.svg" alt="GitHub streak" />
-</div>
 
 <br/>
 
