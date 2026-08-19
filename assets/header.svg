@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061018"/>
+      <stop offset="48%" stop-color="#0A3258"/>
+      <stop offset="100%" stop-color="#1BA3E0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.2" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#44AEFB" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#7CE0FF" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0175C2"/>
+      <stop offset="100%" stop-color="#8AE7FF"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#10344F"/>
+      <stop offset="100%" stop-color="#0B2233"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.15" fill="#ffffff" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#dots)"/>
+  <circle cx="220" cy="40" r="150" fill="url(#glow)"/>
+  <circle cx="980" cy="40" r="160" fill="url(#glow)"/>
+  <circle cx="1120" cy="200" r="90" fill="#7CE0FF" opacity="0.12"/>
+
+  <g transform="translate(518,28)">
+    <rect x="0" y="0" width="164" height="196" rx="28" fill="#071821" stroke="#8AE7FF" stroke-width="3"/>
+    <rect x="18" y="16" width="128" height="164" rx="16" fill="url(#screen)"/>
+    <circle cx="82" cy="10" r="4" fill="#44AEFB"/>
+    <rect x="34" y="38" width="96" height="10" rx="5" fill="#44AEFB" opacity="0.95"/>
+    <rect x="34" y="56" width="64" height="8" rx="4" fill="#7CE0FF" opacity="0.7"/>
+    <rect x="34" y="78" width="96" height="32" rx="10" fill="#1A4E73"/>
+    <rect x="34" y="118" width="44" height="24" rx="8" fill="#44AEFB" opacity="0.85"/>
+    <rect x="86" y="118" width="44" height="24" rx="8" fill="#7CE0FF" opacity="0.55"/>
+    <rect x="34" y="150" width="96" height="16" rx="8" fill="#44AEFB"/>
+  </g>
+
+  <path d="M0,238 C180,208 320,264 500,232 C700,196 880,260 1200,222 L1200,280 L0,280 Z" fill="url(#wave)"/>
+</svg>
